@@ -1,2 +1,2 @@
 # Calc-ASM
- Simple calculater written in x86 Assembly intel NASM syntax works in Linux
+ Simple calculator written in x86 Assembly intel NASM syntax works in Linux
